@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "group": "shiny",
+      "value": 3,
+      "name": "2011-01-05"
+    },
+    {
+      "group": "shiny",
+      "value": 10,
+      "name": "2011-01-06"
+    },
+    {
+      "group": "shiny",
+      "value": 16,
+      "name": "2011-01-07"
+    },
+    {
+      "group": "shiny",
+      "value": 23,
+      "name": "2011-01-08"
+    },
+    {
+      "group": "radiant",
+      "value": 23,
+      "name": "2011-01-05"
+    },
+    {
+      "group": "radiant",
+      "value": 16,
+      "name": "2011-01-06"
+    },
+    {
+      "group": "radiant",
+      "value": 10,
+      "name": "2011-01-07"
+    },
+    {
+      "group": "radiant",
+      "value": 4,
+      "name": "2011-01-08"
+    },
+    {
+      "group": "luminous",
+      "value": 10,
+      "name": "2011-01-05"
+    },
+    {
+      "group": "luminous",
+      "value": 20,
+      "name": "2011-01-06"
+    },
+    {
+      "group": "luminous",
+      "value": 26,
+      "name": "2011-01-07"
+    },
+    {
+      "group": "luminous",
+      "value": 33,
+      "name": "2011-01-08"
+    }
+  ]
+}

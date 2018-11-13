@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "stack": "Direct",
+      "value": 0,
+      "name": "2011-01-05"
+    },
+    {
+      "stack": "Direct",
+      "value": 4,
+      "name": "2011-01-06"
+    },
+    {
+      "stack": "Direct",
+      "value": 12,
+      "name": "2011-01-07"
+    },
+    {
+      "stack": "Direct",
+      "value": 23,
+      "name": "2011-01-08"
+    },
+    {
+      "stack": "Eventbrite",
+      "value": 18,
+      "name": "2011-01-05"
+    },
+    {
+      "stack": "Eventbrite",
+      "value": 16,
+      "name": "2011-01-06"
+    },
+    {
+      "stack": "Eventbrite",
+      "value": 10,
+      "name": "2011-01-07"
+    },
+    {
+      "stack": "Eventbrite",
+      "value": 0,
+      "name": "2011-01-08"
+    },
+    {
+      "stack": "Email",
+      "value": 10,
+      "name": "2011-01-05"
+    },
+    {
+      "stack": "Email",
+      "value": 20,
+      "name": "2011-01-06"
+    },
+    {
+      "stack": "Email",
+      "value": 16,
+      "name": "2011-01-07"
+    },
+    {
+      "stack": "Email",
+      "value": 25,
+      "name": "2011-01-08"
+    }
+  ]
+}
